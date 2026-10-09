@@ -1,4 +1,4 @@
-# Student Course Management System (SQL Project)
+# # University Course Management System (SQL Project)
 
 ## Project Overview
 This MySQL project manages students, courses, instructors, enrollments, and departments. It demonstrates relational database design and answers all 16 SQL tasks from the supplied assignment.
