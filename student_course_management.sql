@@ -1,9 +1,9 @@
 -- ============================================================
--- PROJECT: STUDENT COURSE MANAGEMENT SYSTEM
+-- PROJECT: 1. University_Course_Management SYSTEM
 -- ============================================================
 
-CREATE DATABASE student_course_management;
-USE student_course_management_db;
+CREATE DATABASE  university_course_management_db;
+USE university_course_management_db;
 
 
 -- 1. CREATE TABLES
