@@ -2,7 +2,7 @@
 -- PROJECT: university_course_management
 -- ============================================================
 
-CREATE DATABASE student_course_management;
+CREATE DATABASE university_course_management_db;
 USE student_course_management_db;
 
 
