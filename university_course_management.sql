@@ -1,5 +1,5 @@
 -- ============================================================
--- PROJECT: STUDENT COURSE MANAGEMENT SYSTEM
+-- PROJECT: university_course_management
 -- ============================================================
 
 CREATE DATABASE student_course_management;
